@@ -90,11 +90,11 @@ I used to take great pride in code as a craft, but until this mindless wave of o
 > [!WARNING]
 > These repositories contain code from back when humans used to type it out with their little fingers.
 
-### <img src=".assets/icons/CRAB.webp" alt="" aria-hidden="true" align="top"/> [beret](https://codeberg.org/jpkhawam/beret)
+### <img src=".assets/icons/CRAB.webp" alt="" aria-hidden="true" align="top"/> [beret](https://github.com/Jpzero21/beret)
 
 This was a Rust side-project I worked on while reading the Rust book in parallel. I really like CLIs in general and wanted to create my own, so I decided to convert a bash script I had that set up my Fedora installs. This CLI will ask for `sudo` permissions and change all sorts of things on your system, so you **really** should not run this on your machine unless it's a fresh install. The CLI also takes config files to modify the setup to your liking. It was last tested on Fedora 42 but I'll polish it again soon. (Hi, jp from the future. Define soon?)
 
-### <img src=".assets/icons/TREE.webp" alt="" aria-hidden="true" align="top"/> [advent of code](https://codeberg.org/jpkhawam/advent-of-code)
+### <img src=".assets/icons/TREE.webp" alt="" aria-hidden="true" align="top"/> [advent of code](https://github.com/Jpzero21/advent-of-code)
 
 Admittedly, there aren't that many solutions in this repository yet, but this is intentionally pinned for me to remember how much the [advent of code](https://adventofcode.com/) helped me actually start learning Rust. I want to eventually complete all past and future puzzles, but just _maybe_ not during December.
 
